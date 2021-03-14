@@ -1,4 +1,4 @@
-
+/*This is an example sql script*/
 /*Create a table of job search activities and dates.
 Note that date format must be YYYY-MM-DD before data 
 import from the csv file. */
